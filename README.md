@@ -1,4 +1,4 @@
-# BigONotation
+# Big O Notation
 An Intro to Big O Notation
 
 #Problem
